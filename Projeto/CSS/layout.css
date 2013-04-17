@@ -1,0 +1,38 @@
+	h1{ 
+			text-align: center;
+			color: rgb(25,25,255);
+			font: 27px calibri;
+		}
+
+	h3{
+		text-align: center;
+		color: rgb(25,25,255);
+	}
+
+	body {
+
+			background-color: rgb(142,193,218) ;
+			background-image: url('../imagens/ceu.jpg');
+		}
+
+		p {
+
+			color: rgb(30,144,255);
+
+		}
+
+	div { 
+
+		/* background-image: url('../imagens/gradiente.png') left top repeat-x; */
+		font: 13px "Times new roman";
+		background: #EEE;
+		opacity : 0.86;
+		border:2px solid;
+		border-radius: 10px;
+		text-align: center;
+		/* border-style: double; */
+		width: 450px;
+		margin: auto;
+		display: block;
+		padding: 5px 20px;
+		}
